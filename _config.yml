@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Lisa Harmon's Portfolio
+description: A collection of writing samples to showcase my experience and skills as a professional technical communicator.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://LisaHarmon.github.io/portfolio
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/LisaHarmon/portfolio
