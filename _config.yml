@@ -1,4 +1,4 @@
-title: Lisa Harmon's Portfolio
+title: Lisa's Portfolio
 description: A collection of writing samples to showcase my experience and skills as a professional technical communicator.
 theme: just-the-docs
 
@@ -7,6 +7,18 @@ url: https://LisaHarmon.github.io/portfolio
 aux_links:
   Template Repository: https://github.com/LisaHarmon/portfolio
 
+permalink: pretty
+
+logo: "/assets/images/profile_pic.jpg"
+
+# Aux links for the upper right navigation
+aux_links:
+  "Lisa's Portfolio on GitHub":
+    - "//github.com/LisaHarmon/portfolio"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
 # When commented out, callouts_level defaults to quiet for the light scheme, and loud for dark
 # callouts_level: quiet # or loud
 callouts:
@@ -14,7 +26,7 @@ callouts:
     color: yellow
   important:
     title: Important
-    color: blue
+    color: yellow
   new:
     title: New
     color: green
@@ -27,8 +39,8 @@ callouts:
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
+gh_edit_link_text: "View this page on GitHub."
+gh_edit_repository: "https://github.com/lisaharmon/portfolio" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
