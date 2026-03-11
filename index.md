@@ -1,14 +1,68 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-Hi, I'm Lisa Harmon. Welcome to my profile! I developed this site to showcase my experience and skills as a professional technical communicator. With more than 14 years of experience authoring, editing, and maintaining content for technical and nontechnical audiences, I bring a diverse skill set to the teams I support and partner with. My background spans enterprise software, operational processes and controls, and developer support documentation. I've led large-scale documentation projects, including initiatives that strengthened writing standards and workflows, and helped teams position documentation as an organizational asset.
+<html>
+<head>
+<style>
+.align-left {
+  float: left;
+  margin-right: 15px; /* Adds space between the image and text */
+}
+</style>
+</head>
+<body>
 
-Regardless of type, the content I create must be a bridge between the product or process architects and the users who want to solve a problem or effectively do their job. This perspective challenges me to deeply understand the systems and workflows I document as well as the users who rely on that documentation for support. My hope is that this site reflects not only my skills but also my passion for bringing people closer to accomplishing their goals through clear, user-friendly content.
+<h1>Welcome to my portfolio!</h1>
+
+<img src="assets/images/profile_pic.jpg" alt="Description of image" class="align-left" width="175" height="auto">
+<p>I'm Lisa, a technical communicator with 14 years of experience in authoring, editing, and managing documentation for technical and nontechnical audiences.
+My background spans enterprise software, internal processes and controls, and developer support documentation.
+I developed this site to showcase my professional skills and share a bit about my writing process and style. While it's still very much a work in progress, feel free to look around and <a href="#contact-me">reach out</a> with any questions.
+</p>
+
+</body>
+</html>
 
 {: .note }
-This site uses the Just the Docs theme and Jekyll static-site generator to host the content on GitHub Pages. For more information, refer to [Just the Docs].
+This site uses the Just the Docs theme and Jekyll static-site generator to host the content on GitHub Pages. For more information about this template, refer to [Just the Docs].
+
+## Availability
+
+I'm currently available for US-based permanent or temporary (contract) positions. I am open to fully remote roles as well as hybrid roles in or near Roanoke, Virginia. If you're looking for a naturally curious, highly adaptable, and detail-oriented writer, [let's talk](#contact-me).
+
+---
+
+## Samples
+
+Most of the documentation I've developed throughout my career has been for proprietary systems and internal operations. Due to confidentiality agreements with past employers, I'm unable to share these materials publicly.
+
+As an alternative, I'm currently developing a set of original [writing samples](/docs/samples/index) that reflect the types of documentation I produce, including software guides, developer support materials, and operational procedures. A small number of these samples are currently available, and I'll add more examples as I complete them.
+
+---
+
+## Contact Me
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 10px;">
+    <strong>Email</strong>
+    <br><a href="mailto:LRose5002@gmail.com">LRose5002@gmail.com</a>
+    <br><br>
+    <strong>Phone</strong>
+    <br>+1-540-467-7058
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <strong>LinkedIn</strong>
+    <br><a href="https://www.linkedin.com/in/lisa-harmon-09338048/" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/lisa-harmon-09338048</a>
+    <br><br>
+    <strong>Location</strong>
+    <br>Roanoke, VA, USA
+
+  </div>
+</div>
+
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
