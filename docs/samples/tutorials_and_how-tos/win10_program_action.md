@@ -10,28 +10,28 @@ nav_order: 1
 
 ## Introduction
 
-These instructions describe how to create an action item raised at a WIN10 program meeting.
+These instructions describe how to create and assign an action item raised at a WIN10 program meeting.
 
 {: .important }
-Do not use these instructions to log risks, issues, or decisions. If you are logging one of these items, refer to the **Win10 RAID Log guide** [*resource redacted*].
+Do not use these instructions to log risks, issues, or decisions. If you are logging one of these items, refer to the **Win10 RAID Guide** [*resource redacted*].
 
 ## Before You Begin
 
-Ensure you can access the **CG Windows 10 Migration Project SharePoint** site [*link redacted*]. To request access, contact [*contact name and link redacted*].
+Confirm you have access to the **CG Windows 10 Migration Project** site [*link redacted*]. If you need to request access, contact [*contact name and link redacted*].
 
 ## Steps
 
 1. Open the **CG Windows 10 Migration Project** site [*link redacted*]. 
 
-2. Go to the **Lists** menu, and select **WIN10 Program Action Items**.
+2. Go to the **Lists** menu, and then select **WIN10 Program Action Items**.
 
     [*image redacted*]
 
-    The list appears.
+    The action items list appears.
 
     [*image redacted*]
 
-3. Go to the menu bar, and select **List Tools** > **Items**.
+3. Go to the menu bar, and then select **List Tools** > **Items**.
 
     [*image redacted*]
 
@@ -39,7 +39,7 @@ Ensure you can access the **CG Windows 10 Migration Project SharePoint** site [*
 
     [*image redacted*]
 
-    The WIN10 Program Action Items – New Item form appears.
+    The *WIN10 Program Action Items – New Item* form appears.
 
     [*image redacted*]
 
@@ -47,23 +47,21 @@ Ensure you can access the **CG Windows 10 Migration Project SharePoint** site [*
 
     | Field            | Action           | Required?        |
     |:-----------------|:-----------------|:-----------------|
-    | Title            | Enter a brief description conveying the item's main theme. | Yes | 
+    | Title            | Enter a brief description that conveys the item's main theme. | Yes | 
     | Description      | Enter additional details about the item. | Yes |
-    | Artifact         | Add a link to the document associated with the item. | No | 
-    | Meeting Date     | Select the date on which the item was assigned. | Yes |
-    | Due Date         | Select the date by which the item should be completed. | Yes |
-    | Status           | Select the item's current state: New, In progress, Delayed, Overdue, On hold, or Completed. | Yes |
-    | Priority         | Select the item's current ranking in relation to other action items: Low, Medium, or High. | Yes |
     | Action Org       | Enter the responsible organization. | Yes |
-    | Action Officer   | Enter the name of the person responsible for completing the item. | Yes |
-    | Comments         | Enter any additional notes about the item. | No |
+    | Action Officer   | Enter the name of the person responsible for completing the item (the assignee). | Yes |
+    | Artifact         | Add a link to the document associated with the item. | No | 
+    | Meeting Date     | Select the date for the meeting. | Yes |
+    | Due Date         | Select the date by which the assignee should complete the item. | Yes |
+    | Status           | Select the <strong>New</strong> option.<br> <strong>Note:</strong> The assignee updates this status to indicate whether the item is *In progress*, *Delayed*, *Overdue*, *On hold*, or *Completed*. | Yes |
+    | Priority         | Select the item's current ranking in relation to other action items on the list: *Low*, *Medium*, or *High*. | Yes |
+    | Comments         | Enter any additional notes about the item.<br> <strong>Note:</strong> The assignee may use this field to document changes in status, priority, and other action item properties. | No |
     | Dependency       | Enter any other tasks that must be completed before the item can be resolved. | No |
 
 
 6. Click **Save**.
 
-    Your action item is added to the list.
+    The action items list appears and displays the new action item.
 
-
-
-
+    [*image redacted*]

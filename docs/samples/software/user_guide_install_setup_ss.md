@@ -12,14 +12,14 @@ nav_order: 2
 
 This guide explains how to:
 
-* Install the Smart Shopper app
-* Create an account
-* Enable location services
-* Configure store settings
+* Install the *Smart Shopper* app.
+* Create an account.
+* Enable location services.
+* Configure store settings.
 
 ## System Requirements
 
-Before installing Smart Shopper, ensure your device meets the following requirements:
+Before installing *Smart Shopper*, make sure your device meets the following requirements:
 
 | Requirement | Specification |
 |---|---|
@@ -53,22 +53,26 @@ When launching the app for the first time, you will be prompted to create an acc
 ## Enable Location Services
 
 {: .note }
-Location services allow Smart Shopper to detect nearby grocery stores, provide accurate price comparisons, and create in-store maps so you can find your list items easily.
+Location services allow *Smart Shopper* to detect nearby grocery stores, provide accurate price comparisons, and create in-store maps so you can find your list items easily.
 
 1. Open **Settings** on your device.
-2. Scroll down and tap **Apps**.
-3. Scroll down and tap **Smart Shopper**.
+2. Scroll down, and then tap **Apps**.
+3. Scroll down, and then tap **Smart Shopper**.
 4. Tap **Location**.
 5. Select **While Using the App**.
 6. Turn on **Precise Location**.
 
 ## Configure Store Settings
 
-With location services enabled, Smart Shopper automatically detects stores within a 10-mile radius of your location. Use the following instructions to modify the default radius and select preferred stores.
+With location services enabled, *Smart Shopper* automatically detects stores within a 10-mile radius of your location. Use the following instructions to modify the default radius and select preferred stores.
 
 1. Open **Smart Shopper**.
-2. At the top of the screen, tap your profile image, and select **Store Settings**.
+2. At the top of the screen, tap your profile image, and then select **Store Settings**.
 3. To change the radius that the app uses to detect stores, in the **Within** field, enter a new distance in miles.
 4. To select stores for the app's price comparison feature: 
-    1. Tap **My Stores**, and select each store you want to include.
-    2. Tap **Continue** to set your preferred stores and close the menu.
+    1. Tap **My Stores**, and then select each store you want to include.
+    2. Tap **Continue** to save your preferences.
+
+## More Information
+
+[Quick Start Guide]({% link docs/samples/software/user_guide_quick_start_ss.md %})
