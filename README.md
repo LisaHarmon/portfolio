@@ -12,7 +12,11 @@ I'm currently available for permanent or temporary full-time positions that are 
 
 ## Samples
 
-*Coming soon*
+Most of the documentation that I’ve developed throughout my career has been for proprietary systems and internal operations. Due to confidentiality agreements with past employers, I’m unable to share these materials publicly. To demonstrate my skills, I’m currently developing a set of original writing samples that reflect the types of documentation I produce, including software guides, developer support materials, and operational procedures. A small number of these samples are currently available, and I will add more examples as I complete them.
+
+- [View my samples on GitHub](docs/samples)
+
+- <a href="https://lisaharmon.github.io/portfolio/docs/samples/">View my samples on my website</a> 
 
 ## Contact Me
 
