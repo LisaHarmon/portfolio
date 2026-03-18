@@ -20,7 +20,7 @@ nav_order: 1
 <img src="assets/images/profile_pic.jpg" alt="Description of image" class="align-left" width="175" height="auto">
 <p>I'm Lisa, a technical communicator with extensive experience in authoring, editing, and managing documentation for technical and nontechnical audiences.
 My background spans enterprise software, internal processes and controls, and developer support documentation.
-I developed this site to showcase my professional skills and share a bit about my writing process and style. While it's still very much a work in progress, feel free to look around and <a href="#contact-me">reach out</a> with any questions.
+I developed this site to showcase my professional skills and share a bit about my writing process and style. Feel free to look around and <a href="#contact-me">reach out</a> with any questions.
 </p>
 
 </body>
@@ -33,15 +33,11 @@ This site uses the Just the Docs theme and Jekyll static-site generator to host 
 
 I'm currently available for a US-based, permanent or temporary (contract) position. I am open to fully remote roles as well as hybrid roles in or near Roanoke, Virginia. If you're looking for a naturally curious, highly adaptable, and detail-oriented writer, [let's talk](#contact-me).
 
----
-
 ## Samples
 
 Most of the documentation that I've developed throughout my career has been for proprietary systems and internal operations. Due to confidentiality agreements with past employers, I'm unable to share these materials publicly.
 
 To demonstrate my skills, I'm currently developing a set of original [writing samples]({% link docs/samples/index.md %}) that reflect the types of documentation I produce, including software guides, developer support materials, and operational procedures. A small number of these samples are currently available, and I will add more examples as I complete them.
-
----
 
 ## Contact Me
 
