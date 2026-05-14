@@ -16,4 +16,4 @@ This user guide is in progress. New sections will be added soon.
 **To get started:**
 
 * [Install and set up the app]({% link docs/samples/software/user_guide_install_setup_ss.md %}).
-* [Read the Quick Start Guide]({% link docs/samples/software/user_guide_quick_start_ss.md %}).
+* [Read the *Quick Start Guide*]({% link docs/samples/software/user_guide_quick_start_ss.md %}).

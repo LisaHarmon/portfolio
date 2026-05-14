@@ -31,7 +31,7 @@ This site uses the Just the Docs theme and Jekyll static-site generator to host 
 
 ## Availability
 
-I'm currently available for a US-based, permanent or temporary (contract) position. I am open to fully remote roles as well as hybrid roles in or near Roanoke, Virginia. If you're looking for a naturally curious, highly adaptable, and detail-oriented writer, [let's talk](#contact-me).
+I'm currently available for US-based remote roles (permanent or contract). I am also open to hybrid positions in or near Roanoke, Virginia. If you're looking for a naturally curious, highly adaptable, and detail-oriented writer, [let's talk](#contact-me).
 
 ## Samples
 
