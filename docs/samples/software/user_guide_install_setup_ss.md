@@ -39,11 +39,11 @@ Before installing *Smart Shopper*, make sure your device meets the following req
 ## Create Your Smart Shopper Account
 
 {: .note }
-When launching the app for the first time, you will be prompted to create an account.
+The app prompts you to create an account when you launch it for the first time.
 
 1. Open **Smart Shopper**.
 2. Tap **Create Account**.
-3. Enter the following information:
+3. Enter the following information in the available fields:
     * First and last name
     * Email address
     * Password

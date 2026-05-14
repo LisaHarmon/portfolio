@@ -38,6 +38,10 @@ I see content as a bridge connecting the people who design and build systems wit
 
 Whether I’m documenting an operational workflow, building a knowledge base, or supporting application users, I aim to create content that is not just accurate but genuinely helpful.
 
+## My Recommendations
+
+Learn more about me as teammate by visiting <a href="https://www.linkedin.com/in/lisa-harmon-09338048/details/recommendations/?detailScreenTabIndex=0" target="_blank" rel="noopener noreferrer">my recommendations</a> on LinkedIn.
+
 ## Why This Matters
 
 At its core, my work is about helping people accomplish their goals. Clear, thoughtful content reduces frustration, builds confidence, and enables users to move forward without hesitation. When users succeed, the business gains trust. Ultimately, user-focused content helps businesses achieve their strategic goals.
