@@ -44,7 +44,7 @@ To demonstrate my skills, I'm currently developing a set of original [writing sa
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding-right: 10px;">
     <strong>Email</strong>
-    <br><a href="mailto:LRose5002@gmail.com">LRose5002@gmail.com</a>
+    <br><a href="mailto:harmon.lisae@gmail.com">harmon.lisae@gmail.com</a>
     <br><br>
     <strong>Phone</strong>
     <br>+1-540-467-7058
